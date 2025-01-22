@@ -1,10 +1,6 @@
 # Big-Data-Filtering-Analysis-Tool
 Big Data Filtering &amp; Analysis Tool: A Python-based GUI application for big data analysis using Bloom Filters and the Flajolet-Martin algorithm. Features include CSV file loading, column-wise analytics, visualization, and efficient distinct element counting.
 
-# Big Data Filtering & Analysis Tool
-
-This project is a Python-based GUI application that provides efficient big data analysis using **Bloom Filters** and the **Flajolet-Martin algorithm**. It enables users to load CSV files, analyze data columns, visualize distributions, and perform advanced filtering.
-
 ---
 
 ## Features
